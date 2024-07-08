@@ -20,7 +20,7 @@
       name: R CMD Check 🧬 - Inside container 🐳
       runs-on: ubuntu-latest
       container:
-        image: "ghcr.io/user-workshop-cicd/userrrrr:4.3"
+        image: "ghcr.io/user-workshop-cicd/useRRRRR:4.3"
       if: false
 
       steps:
