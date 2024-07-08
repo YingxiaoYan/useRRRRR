@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(r.package.example)
+library(useRRRRR)
 
-test_check("r.package.example")
+test_check("useRRRRR")
